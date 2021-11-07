@@ -1,0 +1,12 @@
+G:\Mileny\Security\Mi.IRepositonry\bin\Debug\net5.0\Mi.IRepositonry.deps.json
+G:\Mileny\Security\Mi.IRepositonry\bin\Debug\net5.0\Mi.IRepositonry.dll
+G:\Mileny\Security\Mi.IRepositonry\bin\Debug\net5.0\ref\Mi.IRepositonry.dll
+G:\Mileny\Security\Mi.IRepositonry\bin\Debug\net5.0\Mi.IRepositonry.pdb
+G:\Mileny\Security\Mi.IRepositonry\obj\Debug\net5.0\Mi.IRepositonry.csproj.AssemblyReference.cache
+G:\Mileny\Security\Mi.IRepositonry\obj\Debug\net5.0\Mi.IRepositonry.GeneratedMSBuildEditorConfig.editorconfig
+G:\Mileny\Security\Mi.IRepositonry\obj\Debug\net5.0\Mi.IRepositonry.AssemblyInfoInputs.cache
+G:\Mileny\Security\Mi.IRepositonry\obj\Debug\net5.0\Mi.IRepositonry.AssemblyInfo.cs
+G:\Mileny\Security\Mi.IRepositonry\obj\Debug\net5.0\Mi.IRepositonry.csproj.CoreCompileInputs.cache
+G:\Mileny\Security\Mi.IRepositonry\obj\Debug\net5.0\Mi.IRepositonry.dll
+G:\Mileny\Security\Mi.IRepositonry\obj\Debug\net5.0\ref\Mi.IRepositonry.dll
+G:\Mileny\Security\Mi.IRepositonry\obj\Debug\net5.0\Mi.IRepositonry.pdb

@@ -1,0 +1,12 @@
+G:\Mileny\Security\Mi.Repositonry.MySql\bin\Debug\net5.0\Mi.Repositonry.MySql.deps.json
+G:\Mileny\Security\Mi.Repositonry.MySql\bin\Debug\net5.0\Mi.Repositonry.MySql.dll
+G:\Mileny\Security\Mi.Repositonry.MySql\bin\Debug\net5.0\ref\Mi.Repositonry.MySql.dll
+G:\Mileny\Security\Mi.Repositonry.MySql\bin\Debug\net5.0\Mi.Repositonry.MySql.pdb
+G:\Mileny\Security\Mi.Repositonry.MySql\obj\Debug\net5.0\Mi.Repositonry.MySql.csproj.AssemblyReference.cache
+G:\Mileny\Security\Mi.Repositonry.MySql\obj\Debug\net5.0\Mi.Repositonry.MySql.GeneratedMSBuildEditorConfig.editorconfig
+G:\Mileny\Security\Mi.Repositonry.MySql\obj\Debug\net5.0\Mi.Repositonry.MySql.AssemblyInfoInputs.cache
+G:\Mileny\Security\Mi.Repositonry.MySql\obj\Debug\net5.0\Mi.Repositonry.MySql.AssemblyInfo.cs
+G:\Mileny\Security\Mi.Repositonry.MySql\obj\Debug\net5.0\Mi.Repositonry.MySql.csproj.CoreCompileInputs.cache
+G:\Mileny\Security\Mi.Repositonry.MySql\obj\Debug\net5.0\Mi.Repositonry.MySql.dll
+G:\Mileny\Security\Mi.Repositonry.MySql\obj\Debug\net5.0\ref\Mi.Repositonry.MySql.dll
+G:\Mileny\Security\Mi.Repositonry.MySql\obj\Debug\net5.0\Mi.Repositonry.MySql.pdb

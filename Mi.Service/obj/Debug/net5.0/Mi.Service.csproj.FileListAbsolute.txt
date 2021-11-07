@@ -1,0 +1,12 @@
+G:\Mileny\Security\Mi.Service\bin\Debug\net5.0\Mi.Service.deps.json
+G:\Mileny\Security\Mi.Service\bin\Debug\net5.0\Mi.Service.dll
+G:\Mileny\Security\Mi.Service\bin\Debug\net5.0\ref\Mi.Service.dll
+G:\Mileny\Security\Mi.Service\bin\Debug\net5.0\Mi.Service.pdb
+G:\Mileny\Security\Mi.Service\obj\Debug\net5.0\Mi.Service.csproj.AssemblyReference.cache
+G:\Mileny\Security\Mi.Service\obj\Debug\net5.0\Mi.Service.GeneratedMSBuildEditorConfig.editorconfig
+G:\Mileny\Security\Mi.Service\obj\Debug\net5.0\Mi.Service.AssemblyInfoInputs.cache
+G:\Mileny\Security\Mi.Service\obj\Debug\net5.0\Mi.Service.AssemblyInfo.cs
+G:\Mileny\Security\Mi.Service\obj\Debug\net5.0\Mi.Service.csproj.CoreCompileInputs.cache
+G:\Mileny\Security\Mi.Service\obj\Debug\net5.0\Mi.Service.dll
+G:\Mileny\Security\Mi.Service\obj\Debug\net5.0\ref\Mi.Service.dll
+G:\Mileny\Security\Mi.Service\obj\Debug\net5.0\Mi.Service.pdb
