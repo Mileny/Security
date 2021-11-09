@@ -1,32 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Mileny\\Security\\Mi.Repositonry.MySql\\Mi.Repositonry.MySql.csproj": {}
+    "D:\\##Project##\\Security\\Mi.Repositonry.MySql\\Mi.Repositonry.MySql.csproj": {}
   },
   "projects": {
-    "G:\\Mileny\\Security\\Mi.Repositonry.MySql\\Mi.Repositonry.MySql.csproj": {
+    "D:\\##Project##\\Security\\Mi.Repositonry.MySql\\Mi.Repositonry.MySql.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Mileny\\Security\\Mi.Repositonry.MySql\\Mi.Repositonry.MySql.csproj",
+        "projectUniqueName": "D:\\##Project##\\Security\\Mi.Repositonry.MySql\\Mi.Repositonry.MySql.csproj",
         "projectName": "Mi.Repositonry.MySql",
-        "projectPath": "G:\\Mileny\\Security\\Mi.Repositonry.MySql\\Mi.Repositonry.MySql.csproj",
+        "projectPath": "D:\\##Project##\\Security\\Mi.Repositonry.MySql\\Mi.Repositonry.MySql.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "G:\\Mileny\\Security\\Mi.Repositonry.MySql\\obj\\",
+        "outputPath": "D:\\##Project##\\Security\\Mi.Repositonry.MySql\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net5.0"
+          "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {}
           }
         },
@@ -37,8 +37,8 @@
         }
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "imports": [
             "net461",
             "net462",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-preview.6.21355.2\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

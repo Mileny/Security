@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FPhQ/hCbsHgTNwuCw6ijMtG4SQSA5dktIBqBzaljwgXAxgu0DK8o7bYMKzxrFViBh2+whHGvH/lgA9u4/k42Vw==",
+  "dgSpecHash": "ar8/WHOmNbCvHA8oAsU52hOF0HoO5cHey+m77XnQupn2DbOWHvYW9ZNFnkDS9TsgmV7t6ngWYLk4YVUWJBqmpQ==",
   "success": true,
-  "projectFilePath": "G:\\Mileny\\Security\\Mi.UserCenter\\Mi.UserCenter.csproj",
+  "projectFilePath": "D:\\##Project##\\Security\\Mi.UserCenter\\Mi.UserCenter.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
