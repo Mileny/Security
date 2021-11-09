@@ -1,0 +1,12 @@
+D:\##Project##\Security\Mi.IService\bin\Debug\net6.0\Mi.IService.deps.json
+D:\##Project##\Security\Mi.IService\bin\Debug\net6.0\Mi.IService.dll
+D:\##Project##\Security\Mi.IService\bin\Debug\net6.0\ref\Mi.IService.dll
+D:\##Project##\Security\Mi.IService\bin\Debug\net6.0\Mi.IService.pdb
+D:\##Project##\Security\Mi.IService\obj\Debug\net6.0\Mi.IService.csproj.AssemblyReference.cache
+D:\##Project##\Security\Mi.IService\obj\Debug\net6.0\Mi.IService.GeneratedMSBuildEditorConfig.editorconfig
+D:\##Project##\Security\Mi.IService\obj\Debug\net6.0\Mi.IService.AssemblyInfoInputs.cache
+D:\##Project##\Security\Mi.IService\obj\Debug\net6.0\Mi.IService.AssemblyInfo.cs
+D:\##Project##\Security\Mi.IService\obj\Debug\net6.0\Mi.IService.csproj.CoreCompileInputs.cache
+D:\##Project##\Security\Mi.IService\obj\Debug\net6.0\Mi.IService.dll
+D:\##Project##\Security\Mi.IService\obj\Debug\net6.0\ref\Mi.IService.dll
+D:\##Project##\Security\Mi.IService\obj\Debug\net6.0\Mi.IService.pdb

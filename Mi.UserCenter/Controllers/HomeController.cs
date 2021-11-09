@@ -7,7 +7,7 @@ namespace Mi.UserCenter.Controllers {
     public class HomeController : ControllerBase {
 
         public ActionResult Index() {
-            return Ok("成功1111111");
+            return Ok("成功111111122222");
         }
     }
 }

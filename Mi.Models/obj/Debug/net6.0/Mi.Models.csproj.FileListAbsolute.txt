@@ -1,0 +1,11 @@
+D:\##Project##\Security\Mi.Models\bin\Debug\net6.0\Mi.Models.deps.json
+D:\##Project##\Security\Mi.Models\bin\Debug\net6.0\Mi.Models.dll
+D:\##Project##\Security\Mi.Models\bin\Debug\net6.0\ref\Mi.Models.dll
+D:\##Project##\Security\Mi.Models\bin\Debug\net6.0\Mi.Models.pdb
+D:\##Project##\Security\Mi.Models\obj\Debug\net6.0\Mi.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\##Project##\Security\Mi.Models\obj\Debug\net6.0\Mi.Models.AssemblyInfoInputs.cache
+D:\##Project##\Security\Mi.Models\obj\Debug\net6.0\Mi.Models.AssemblyInfo.cs
+D:\##Project##\Security\Mi.Models\obj\Debug\net6.0\Mi.Models.csproj.CoreCompileInputs.cache
+D:\##Project##\Security\Mi.Models\obj\Debug\net6.0\Mi.Models.dll
+D:\##Project##\Security\Mi.Models\obj\Debug\net6.0\ref\Mi.Models.dll
+D:\##Project##\Security\Mi.Models\obj\Debug\net6.0\Mi.Models.pdb

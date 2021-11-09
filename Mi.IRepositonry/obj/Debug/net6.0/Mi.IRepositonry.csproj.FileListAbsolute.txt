@@ -1,0 +1,12 @@
+D:\##Project##\Security\Mi.IRepositonry\bin\Debug\net6.0\Mi.IRepositonry.deps.json
+D:\##Project##\Security\Mi.IRepositonry\bin\Debug\net6.0\Mi.IRepositonry.dll
+D:\##Project##\Security\Mi.IRepositonry\bin\Debug\net6.0\ref\Mi.IRepositonry.dll
+D:\##Project##\Security\Mi.IRepositonry\bin\Debug\net6.0\Mi.IRepositonry.pdb
+D:\##Project##\Security\Mi.IRepositonry\obj\Debug\net6.0\Mi.IRepositonry.csproj.AssemblyReference.cache
+D:\##Project##\Security\Mi.IRepositonry\obj\Debug\net6.0\Mi.IRepositonry.GeneratedMSBuildEditorConfig.editorconfig
+D:\##Project##\Security\Mi.IRepositonry\obj\Debug\net6.0\Mi.IRepositonry.AssemblyInfoInputs.cache
+D:\##Project##\Security\Mi.IRepositonry\obj\Debug\net6.0\Mi.IRepositonry.AssemblyInfo.cs
+D:\##Project##\Security\Mi.IRepositonry\obj\Debug\net6.0\Mi.IRepositonry.csproj.CoreCompileInputs.cache
+D:\##Project##\Security\Mi.IRepositonry\obj\Debug\net6.0\Mi.IRepositonry.dll
+D:\##Project##\Security\Mi.IRepositonry\obj\Debug\net6.0\ref\Mi.IRepositonry.dll
+D:\##Project##\Security\Mi.IRepositonry\obj\Debug\net6.0\Mi.IRepositonry.pdb
