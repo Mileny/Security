@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "06fe7f46-3a48-4b83-a68f-805e2739c669": {
+      "ProjectGuid": "06fe7f46-3a48-4b83-a68f-805e2739c669",
+      "DisplayName": "Mi.UserCenter",
+      "ColorIndex": 0
+    },
+    "ede1aebb-9e5f-4850-96f9-d0d4bffd390a": {
+      "ProjectGuid": "ede1aebb-9e5f-4850-96f9-d0d4bffd390a",
+      "DisplayName": "Mi.Daily",
+      "ColorIndex": 1
+    },
+    "44177846-01e7-4d18-b4da-57c9f1fe5b99": {
+      "ProjectGuid": "44177846-01e7-4d18-b4da-57c9f1fe5b99",
+      "DisplayName": "Mi.IService",
+      "ColorIndex": 2
+    },
+    "37895f9b-5ab4-4fa5-a3a6-d5a039b50880": {
+      "ProjectGuid": "37895f9b-5ab4-4fa5-a3a6-d5a039b50880",
+      "DisplayName": "Mi.Service",
+      "ColorIndex": 3
+    },
+    "fbe44bb6-f349-450a-a317-2dc195fd6c7c": {
+      "ProjectGuid": "fbe44bb6-f349-450a-a317-2dc195fd6c7c",
+      "DisplayName": "Mi.Entity",
+      "ColorIndex": 4
+    },
+    "2f86dac1-ac8b-4d21-acd6-ebf6b2a6fe66": {
+      "ProjectGuid": "2f86dac1-ac8b-4d21-acd6-ebf6b2a6fe66",
+      "DisplayName": "Mi.Models",
+      "ColorIndex": 5
+    },
+    "ad636136-40d4-4cdd-9834-5a2305b96cb4": {
+      "ProjectGuid": "ad636136-40d4-4cdd-9834-5a2305b96cb4",
+      "DisplayName": "Mi.Common",
+      "ColorIndex": 6
+    },
+    "8bb0e8c3-c45f-4d55-800a-311f61a48ad2": {
+      "ProjectGuid": "8bb0e8c3-c45f-4d55-800a-311f61a48ad2",
+      "DisplayName": "Mi.IRepositonry",
+      "ColorIndex": 7
+    },
+    "90603fe5-fc9d-4726-a43f-a3cfa0433fe9": {
+      "ProjectGuid": "90603fe5-fc9d-4726-a43f-a3cfa0433fe9",
+      "DisplayName": "Mi.Repositonry.MySql",
+      "ColorIndex": 8
+    }
+  },
+  "NextColorIndex": 9
+}

@@ -9,3 +9,4 @@ D:\##Project##\Security\Mi.Models\obj\Debug\net6.0\Mi.Models.csproj.CoreCompileI
 D:\##Project##\Security\Mi.Models\obj\Debug\net6.0\Mi.Models.dll
 D:\##Project##\Security\Mi.Models\obj\Debug\net6.0\ref\Mi.Models.dll
 D:\##Project##\Security\Mi.Models\obj\Debug\net6.0\Mi.Models.pdb
+D:\##Project##\Security\Mi.Models\obj\Debug\net6.0\Mi.Models.csproj.AssemblyReference.cache

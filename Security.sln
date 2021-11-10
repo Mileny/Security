@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31521.260
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mi.UserCenter", "Mi.UserCenter\Mi.UserCenter.csproj", "{06FE7F46-3A48-4B83-A68F-805E2739C669}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mi.UserCenter", "Mi.UserCenter\Mi.UserCenter.csproj", "{06FE7F46-3A48-4B83-A68F-805E2739C669}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mi.Daily", "Mi.Daily\Mi.Daily.csproj", "{EDE1AEBB-9E5F-4850-96F9-D0D4BFFD390A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mi.Daily", "Mi.Daily\Mi.Daily.csproj", "{EDE1AEBB-9E5F-4850-96F9-D0D4BFFD390A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mi.Common", "Mi.Common\Mi.Common.csproj", "{AD636136-40D4-4CDD-9834-5A2305B96CB4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mi.Common", "Mi.Common\Mi.Common.csproj", "{AD636136-40D4-4CDD-9834-5A2305B96CB4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mi.IService", "Mi.IService\Mi.IService.csproj", "{44177846-01E7-4D18-B4DA-57C9F1FE5B99}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mi.IService", "Mi.IService\Mi.IService.csproj", "{44177846-01E7-4D18-B4DA-57C9F1FE5B99}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "API", "API", "{75D99552-5EA0-4052-95B0-1C180E20A428}"
 EndProject
@@ -21,17 +21,15 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastru
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Entity", "Entity", "{929327DB-6907-47E5-9888-F1BE15169D67}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mi.Service", "Mi.Service\Mi.Service.csproj", "{37895F9B-5AB4-4FA5-A3A6-D5A039B50880}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mi.Service", "Mi.Service\Mi.Service.csproj", "{37895F9B-5AB4-4FA5-A3A6-D5A039B50880}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mi.Entity", "Mi.Entity\Mi.Entity.csproj", "{FBE44BB6-F349-450A-A317-2DC195FD6C7C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mi.Entity", "Mi.Entity\Mi.Entity.csproj", "{FBE44BB6-F349-450A-A317-2DC195FD6C7C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mi.Models", "Mi.Models\Mi.Models.csproj", "{2F86DAC1-AC8B-4D21-ACD6-EBF6B2A6FE66}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mi.Models", "Mi.Models\Mi.Models.csproj", "{2F86DAC1-AC8B-4D21-ACD6-EBF6B2A6FE66}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mi.IRepositonry", "Mi.IRepositonry\Mi.IRepositonry.csproj", "{8BB0E8C3-C45F-4D55-800A-311F61A48AD2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mi.IRepositonry", "Mi.IRepositonry\Mi.IRepositonry.csproj", "{8BB0E8C3-C45F-4D55-800A-311F61A48AD2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mi.Repositonry.MySql", "Mi.Repositonry.MySql\Mi.Repositonry.MySql.csproj", "{90603FE5-FC9D-4726-A43F-A3CFA0433FE9}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UI", "UI", "{83C6D70A-0B0A-4995-89F3-BA24F248CBA8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mi.Repositonry.MySql", "Mi.Repositonry.MySql\Mi.Repositonry.MySql.csproj", "{90603FE5-FC9D-4726-A43F-A3CFA0433FE9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

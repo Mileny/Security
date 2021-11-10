@@ -2,7 +2,6 @@ D:\##Project##\Security\Mi.Service\bin\Debug\net6.0\Mi.Service.deps.json
 D:\##Project##\Security\Mi.Service\bin\Debug\net6.0\Mi.Service.dll
 D:\##Project##\Security\Mi.Service\bin\Debug\net6.0\ref\Mi.Service.dll
 D:\##Project##\Security\Mi.Service\bin\Debug\net6.0\Mi.Service.pdb
-D:\##Project##\Security\Mi.Service\obj\Debug\net6.0\Mi.Service.csproj.AssemblyReference.cache
 D:\##Project##\Security\Mi.Service\obj\Debug\net6.0\Mi.Service.GeneratedMSBuildEditorConfig.editorconfig
 D:\##Project##\Security\Mi.Service\obj\Debug\net6.0\Mi.Service.AssemblyInfoInputs.cache
 D:\##Project##\Security\Mi.Service\obj\Debug\net6.0\Mi.Service.AssemblyInfo.cs
