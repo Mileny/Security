@@ -198,11 +198,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\##Project##\\Security\\Mi.UserCenter\\Mi.UserCenter.csproj",
+      "projectUniqueName": "G:\\Mileny\\Security\\Mi.UserCenter\\Mi.UserCenter.csproj",
       "projectName": "Mi.UserCenter",
-      "projectPath": "D:\\##Project##\\Security\\Mi.UserCenter\\Mi.UserCenter.csproj",
+      "projectPath": "G:\\Mileny\\Security\\Mi.UserCenter\\Mi.UserCenter.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "D:\\##Project##\\Security\\Mi.UserCenter\\obj\\",
+      "outputPath": "G:\\Mileny\\Security\\Mi.UserCenter\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",

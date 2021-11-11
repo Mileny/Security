@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\##Project##\\Security\\Mi.Repositonry.MySql\\Mi.Repositonry.MySql.csproj",
+      "projectUniqueName": "G:\\Mileny\\Security\\Mi.Repositonry.MySql\\Mi.Repositonry.MySql.csproj",
       "projectName": "Mi.Repositonry.MySql",
-      "projectPath": "D:\\##Project##\\Security\\Mi.Repositonry.MySql\\Mi.Repositonry.MySql.csproj",
+      "projectPath": "G:\\Mileny\\Security\\Mi.Repositonry.MySql\\Mi.Repositonry.MySql.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "D:\\##Project##\\Security\\Mi.Repositonry.MySql\\obj\\",
+      "outputPath": "G:\\Mileny\\Security\\Mi.Repositonry.MySql\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
